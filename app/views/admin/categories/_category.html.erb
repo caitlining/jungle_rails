@@ -8,7 +8,7 @@
   <td>
     <ul>
       <% category.products.each do |product| %>
-        <li><a href='/products/<%=product.id%>'><%= product.name %></a></li>
+        <li><%= link_to product.name, product%></li> 
       <% end %>
     </ul>
   </td>
