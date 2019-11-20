@@ -1,6 +1,38 @@
-# Jungle
+# **Jungle**
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2. Built from existing Lighthouse Labs code to gain experience understanding, working in, and modifying an established code base.
+
+## Final Product
+
+*Home page showing product listing*
+
+!["Screenshot of home page"](https://github.com/caitlining/jungle_rails/blob/master/docs/main_product_page.png?raw=true)
+
+*Individual Product Details Page*
+
+!["Screenshot of product page"](https://github.com/caitlining/jungle_rails/blob/master/docs/product_details.png?raw=true)
+
+*User Signup Page*
+
+!["Screenshot of product page"](https://github.com/caitlining/jungle_rails/blob/master/docs/signup.png?raw=true)
+
+*Shopping Cart with Items*
+!["Screenshot of cart with two items"](https://github.com/caitlining/jungle_rails/blob/master/docs/my_cart.png?raw=true)
+
+*Order Confirmation Page, after payment*
+!["Screenshot of order confirmation page"](https://github.com/caitlining/jungle_rails/blob/master/docs/order_confirmation.png?raw=true)
+
+*Empty Cart Message*
+
+!["Screenshot of empty cart page"](https://github.com/caitlining/jungle_rails/blob/master/docs/empty_cart.png?raw=true)
+
+*Admin Only Category Dashboard*
+
+!["Screenshot of admin category dashboard"](https://github.com/caitlining/jungle_rails/blob/master/docs/admin_category_dashboard.png?raw=true)
+
+*About Page*
+
+!["Screenshot of about page"](https://github.com/caitlining/jungle_rails/blob/master/docs/about_page.png?raw=true)
 
 
 ## Setup
@@ -25,3 +57,5 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+#### Enjoy! 
